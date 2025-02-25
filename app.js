@@ -73,7 +73,7 @@ let value = (!isAwake || isAwake);
 console.log ("!isAwake || isAwake" + value);
 
 let value2 = 0 == false;
-console.log (" 0 == false?" + value);
+console.log (" 0 == false?" + value2);
 
 
 let sun = 0 === false;
